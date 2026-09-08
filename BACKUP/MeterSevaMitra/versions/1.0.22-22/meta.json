@@ -1,0 +1,14 @@
+{
+  "app": "MeterSevaMitra",
+  "versionName": "1.0.22",
+  "versionCode": "22",
+  "runtimeUrl": "https://metering100-accp.apps.ap-3a.mendixcloud.com/",
+  "buildType": "production",
+  "requestedBy": "adhityavarman.vishnuvardhan@rapiddata.com",
+  "bytes": 6444196,
+  "sha256": "9282fcdf60cd2f193b368e225410570dd176c6c1255a5497dd5c759a5d3b567b",
+  "previousSha256": "",
+  "builtAt": "2026-09-08T12:43:56Z",
+  "runId": "34225508606",
+  "commit": "21cb1822dc09ccb0b16e0207aa1c8bb2ca4266dc"
+}
