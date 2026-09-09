@@ -1,0 +1,15 @@
+{
+  "app": "Satark",
+  "repo": "avcorex/SATARK",
+  "versionName": "1.0.1",
+  "versionCode": "1",
+  "runtimeUrl": "https://vigilance102-accp.apps.ap-3a.mendixcloud.com/",
+  "buildType": "production",
+  "requestedBy": "shyam.balasubramaniyan@rapiddata.com",
+  "bytes": 5982080,
+  "sha256": "ebdfd8f96cc6f07e7928b851612c2a20b01ae0657b4e46318d60e2148a95233e",
+  "previousSha256": "ebdfd8f96cc6f07e7928b851612c2a20b01ae0657b4e46318d60e2148a95233e",
+  "builtAt": "2026-09-09T17:57:26Z",
+  "runId": "34383412244",
+  "commit": "ab903bde36c6c3f43359a207d1967b50524956ce"
+}
