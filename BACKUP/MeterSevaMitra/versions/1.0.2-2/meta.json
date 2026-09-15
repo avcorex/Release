@@ -3,12 +3,12 @@
   "versionName": "1.0.2",
   "versionCode": "2",
   "runtimeUrl": "https://metering100.apps.ap-3a.mendixcloud.com/",
-  "buildType": "production",
+  "buildType": "preview",
   "requestedBy": "hari.prasath@rapiddata.com",
   "bytes": 6438408,
   "sha256": "ce2603239c76c5028011fcc0ad3968ca29ffe9a55e903a09cba0090e27de75c1",
   "previousSha256": "",
-  "builtAt": "2026-09-15T12:39:08Z",
-  "runId": "34968074806",
-  "commit": "4215dc84a4f67422d850a3b8640e163a669a19da"
+  "builtAt": "2026-09-15T13:06:58Z",
+  "runId": "34971370468",
+  "commit": "b0f601253393d44b1b2a2ff6d0818654b8d441c8"
 }
