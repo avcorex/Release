@@ -1,0 +1,14 @@
+{
+  "app": "MeterSevaMitra",
+  "versionName": "1.0.4",
+  "versionCode": "1",
+  "runtimeUrl": "https://metering100.apps.ap-3a.mendixcloud.com/",
+  "buildType": "production",
+  "requestedBy": "hari.prasath@rapiddata.com",
+  "bytes": 6445076,
+  "sha256": "8dfdf96e343d8983aced3a66bd4e94810bbf6fc89ba3f5bb8956ee9d5e9d8a5e",
+  "previousSha256": "",
+  "builtAt": "2026-09-16T07:38:20Z",
+  "runId": "35067976367",
+  "commit": "1db048eed3273c173b0a45a38647b7923f8b8974"
+}
